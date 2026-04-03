@@ -1,3 +1,6 @@
+### Serve models via API:
+- BentoML
+
 ### CD tools: 
 - kubeflow
 - terraform
