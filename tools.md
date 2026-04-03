@@ -23,3 +23,10 @@
 ### Hyperparameter Tuning and Optimization:
 - Optuna
 - Hyperopt
+
+### ETL:
+- Pandas
+- Spark
+- AWS Glue
+- Talend: oferring drag-and-drop functionality for data integration and transformation.
+- DBT
