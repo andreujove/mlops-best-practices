@@ -30,3 +30,9 @@
 - AWS Glue
 - Talend: oferring drag-and-drop functionality for data integration and transformation.
 - DBT
+
+### Data Ingestion:
+- Apache kafka
+
+### Data Processing:
+- Apache Flink
